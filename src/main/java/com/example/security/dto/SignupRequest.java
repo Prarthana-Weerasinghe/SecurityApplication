@@ -14,4 +14,6 @@ public class SignupRequest {
     private String userPassword;
     private String userRole;
 
+    private String myRole;
+
 }
